@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779203854836",
+    "project_id": "authwithphone-fb7ce",
+    "storage_bucket": "authwithphone-fb7ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779203854836:android:21996c3c9f084660e979a1",
+        "android_client_info": {
+          "package_name": "com.sdk.authwithphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779203854836-con42tog1fg3e6lp5lo1cd45d5qtd5q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkRmaG3W0n4ZPiD4hTpLK48iI0HpBHUMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779203854836-con42tog1fg3e6lp5lo1cd45d5qtd5q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

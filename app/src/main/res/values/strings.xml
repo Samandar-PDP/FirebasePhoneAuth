@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AuthWithPhone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="auth">Autarizatsiyadan o\'tish uchun telefon\nraqamingizni kiriting.</string>
+    <string name="wel">Xush kelibsiz!</string>
+    <string name="sms">SMS kodni kiriting</string>
+</resources>
